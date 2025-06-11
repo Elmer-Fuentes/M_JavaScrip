@@ -3,4 +3,9 @@
 
 
 var nombre =  ['Elmer','Juan','Maria'];
-alert (nombre);
+console.log(nombre);
+
+
+var z = '';
+console.log(z)
+console.log(typeof z)

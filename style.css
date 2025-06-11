@@ -12,3 +12,15 @@
     Color: white; /*Color de texto*/
 
 }
+
+#tipo{
+    text-align: center;
+    color: white;
+    background-color: chocolate;
+}
+
+.parrofo{
+    font-size: 2em;
+    color: green;
+    text-align: justify;
+}
