@@ -24,3 +24,11 @@
     color: green;
     text-align: justify;
 }
+
+
+.Operaciones{
+    text-align: center;
+    font-size: 3em;
+    color: chartreuse;
+    background-color: brown;
+}
